@@ -3,6 +3,7 @@
 ## 最新
 
 - [Lua basics](https://github.com/xvno/blog/issues/103)
+- [ESP32 Time GMT+8](https://github.com/xvno/blog/issues/102)
 - [Pi4 配置](https://github.com/xvno/blog/issues/51)
 - [清除浮动](https://github.com/xvno/blog/issues/35)
 - [TCP连接的建立和断开, 3握4挥](https://github.com/xvno/blog/issues/5)
@@ -37,3 +38,6 @@
 
 ### RaspberryPi
 - [Pi4 配置](https://github.com/xvno/blog/issues/51)
+
+### ESP32
+- [ESP32 Time GMT+8](https://github.com/xvno/blog/issues/102)
