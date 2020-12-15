@@ -13,8 +13,8 @@
 node.js 执行时所在的目录路径:
 
 ```sh
-node ./try-dirname-filename-cwd/main.js     # /Users/xvno/blog/samples/nodejs
-node ./main.js                              # /Users/xvno/blog/samples/nodejs/try-dirname-filename-cwd
+node ./try-dirname-filename-cwd/main.js     # /Users/xvno/blog/ISSUES/nodejs
+node ./main.js                              # /Users/xvno/blog/ISSUES/nodejs/try-dirname-filename-cwd
 ```
 
 
