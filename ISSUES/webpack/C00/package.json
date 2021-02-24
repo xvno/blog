@@ -1,0 +1,17 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx webpack --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vno <volving@icloud.com> (http://vno.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.24.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
